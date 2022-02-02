@@ -1,0 +1,292 @@
+{
+    "main": {
+        "name": "Nome",
+        "surname": "Cognome",
+        "occupation": "Occupation",
+        "occupationTarget": "Target",
+        "description": "Describe 💡| here 💻| who you are 🤼| and what do U do 🔍| using, words, icons, ... 🔗",
+        "image": "images/profilepic.jpg",
+        "bio": "I am fond of ...",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "me@emailme.it",
+        "phone": "",
+        "address": {
+            "street": "Via Condotti",
+            "city": "Rome",
+            "state": "Italy",
+            "zip": ""
+        },
+        "website": "my space",
+        "resumedownload": "blob/myCV.pdf",
+        "resumegenerate": false,
+        "cv": {
+            "cvNameSurname": "",
+            "cvAddress": "",
+            "cvPhone": "",
+            "cvMail": "",
+            "cvDatePlaceOfBirth": "",
+            "cvPersonalStatement": ""
+        },
+        "social": [
+            {
+                "name": "e-mail",
+                "url": "mailaddress",
+                "className": "fa fa-envelope"
+            },
+            {
+                "name": "facebook",
+                "url": "FB",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "TW",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "LN",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "INSTA",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/paoleon",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "whatido": {
+        "header": "I AM PASSIONATE ABOUT...",
+        "h2": "BUT DO NOT KEEP ME AWAY FROM CODE !",
+        "loghi": [
+            {
+                "name": "Python",
+                "iconName": "python",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "HTML",
+                "iconName": "html5",
+                "iconPrefix": "fab"
+            },
+			{
+                "name": "CSS",
+                "iconName": "css3",
+                "iconPrefix": "fab"
+            },
+			{
+                "name": "Java",
+                "iconName": "java",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Spring.io",
+                "iconName": "fa-leaf",
+                "iconPrefix": "fas"
+            },
+            {
+                "name": "AWS",
+                "iconName": "aws",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Microsoft",
+                "iconName": "microsoft",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Docker",
+                "iconName": "docker",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Linux",
+                "iconName": "linux",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Network",
+                "iconName": "network-wired",
+                "iconPrefix": "fas"
+            },
+            {
+                "name": "Git",
+                "iconName": "github",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "React",
+                "iconName": "react",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Blockchain",
+                "iconName": "bitcoin",
+                "iconPrefix": "fab"
+            }
+        ],
+        "lightningPhrases-old": [
+            {
+                "text": "FIRST.",
+                "label": "build",
+                "symbol": "🔧"
+            },
+            {
+                "text": "SECOND.",
+                "label": "spark",
+                "symbol": "✨"
+            },
+            {
+                "text": "THIRD.",
+                "label": "agile",
+                "symbol": "♻️"
+            }
+        ],
+        "lightningPhrases": [
+            {
+                "text": "Everything-as-a-service beleaver.",
+                "label": "",
+                "symbol": "✨"
+            },
+            {
+                "text": "No-code revolution ambassador.",
+                "label": "",
+                "symbol": "✨"
+            },
+            {
+                "text": "Digitizalition, datafication and virtualization guru.",
+                "label": "",
+                "symbol": "✨"
+            },
+            {
+                "text": "Transparency, governance and accountability enthusiast.",
+                "label": "",
+                "symbol": "✨"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage-old": "",
+        "education": [
+            {
+                "school": "school",
+                "degree": "Degree",
+                "graduated": "year",
+                "score":"score",
+                "description": "details",
+                "link": "",
+                "logo": "https://upload.wikimedia.org/wikipedia/it/2/2b/Logo_Universit%C3%A0_degli_Studi_dell%27Aquila.gif",
+                "className": "education-roundedimg"
+            }
+        ],
+        "work": [
+            {
+                "company": "Company",
+                "title": "TITLE",
+                "years": "year",
+                "description": ".",
+                "logo": "https://upload.wikimedia.org/wikipedia/it/2/2b/Logo_Universit%C3%A0_degli_Studi_dell%27Aquila.gif",
+                "className": "education-roundedimg"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Passion 🚀",
+                "level": "400%"
+            },
+            {
+                "name": "Full Stack Software Developer",
+                "level": "100%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "a PHP and MySql project. Real My Travel Blog for my post-university travels",
+                "image": "/images/portfolio/project.jpg",
+                "url": ""
+            },
+            {
+                "title": "SACCO med res",
+                "category": "(offline now) a PHP and MySql project for my university gaduation exam.",
+                "image": "/images/portfolio/project.jpg",
+                "url": ""
+            },
+            {
+                "title": "Filigrano Landing page",
+                "category": "(outdated) a one page product to promote the Filigrano Tartellette!",
+                "image": "/images/portfolio/project.jpg",
+                "url": ""
+            },
+            {
+                "title": "Resume Website",
+                "category": "A React based resume website template",
+                "image": "/images/portfolio/resume-website.jpg",
+                "url": "http://www.paololeoni.eu/io"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+                "user": "Kareem Abdul Jabbar"
+            },
+            {
+                "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+                "user": "Steve Wozniak... impersonator"
+            }
+        ]
+    },
+    "experiences": {
+        "experiences": [
+            {
+                "title": "Kubernetes",
+                "logo": "/images/Experiences/Kubernetes_logo.png",
+                "role": "Technology Architect",
+                "fromTo": "",
+                "place": "Rome",
+                "description": ""
+            },
+            {
+                "title": "React",
+                "logo": "/images/Experiences/React_Native_Logo.png",
+                "role": "Technology Architect",
+                "fromTo": "",
+                "place": "Rome",
+                "description": ""
+            }
+        ],
+        "shadowed":[
+            {
+                "title": "Mobile application developer",
+                "logo": "",
+                "role": "Mobile application developer",
+                "fromTo": "2013",
+                "place": "Università degli Studi dell'Aquila",
+                "description": ""
+            }
+        ]
+    },
+    "certifications": {
+        "certifications": [
+            {
+                "title": "DevOps Foundation",
+                "logo": "/images/Certifications/DevOpsFoundation_badge.jpg",
+                "description": [
+                    "The DevOps Foundation course provides a baseline understanding of key DevOps terminology and the fundamental principles and frameworks that underpin it."
+                ],
+                "ongoing": false,
+                "logoHeight": "auto",
+                "achieve_date": "date"
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+#theHeader {
+    padding-top: 96px;
+    padding-bottom: 66px;
+    overflow: hidden;
+}
+
+#theHeader p {
+   animation: color-change 4s infinite;
+}
+  
+@keyframes color-change {
+  0% { color: red; }
+  50% { color: white; }
+  100% { color: red; }
+}
